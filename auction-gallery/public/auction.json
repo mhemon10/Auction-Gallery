@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A legendary film camera from the 1950s.",
+      "currentBidPrice": 2499.99,
+      "timeLeft": "1 Day 5 Hours",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co/DPnqkjkj/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Guitar",
+      "description": "Classic vintage guitar with legendary tone.",
+      "currentBidPrice": 3100,
+      "timeLeft": "3 Days 2 Hours",
+      "bidsCount": 27,
+      "image": "https://i.ibb.co/xKS15fZQ/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Apple Macintosh 128K",
+      "description": "The first-ever Macintosh from 1984.",
+      "currentBidPrice": 1984,
+      "timeLeft": "22 Hours",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co/Wv6SY2Mq/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Stainless steel diver's watch.",
+      "currentBidPrice": 7650.50,
+      "timeLeft": "4 Days 10 Hours",
+      "bidsCount": 45,
+      "image": "https://i.ibb.co/Y4yD9K80/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby (1st Edition)",
+      "description": "Rare first edition from 1925.",
+      "currentBidPrice": 4299,
+      "timeLeft": "1 Day 1 Hour",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co/XxL8VrLj/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Eames Lounge Chair",
+      "description": "Iconic mid-century modern furniture.",
+      "currentBidPrice": 3200.75,
+      "timeLeft": "2 Days 6 Hours",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co/HDjq7tP7/Bid6-min.png"
+    }
+  ]
+  
